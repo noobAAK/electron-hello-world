@@ -10,6 +10,6 @@
   "author": "afshan ahmed khan",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.0.0"
+    "electron": "^18.3.7"
   }
 }
